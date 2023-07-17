@@ -66,3 +66,6 @@ This project utilizes the Langchain library, OpenAI's GPT-3 language model and F
 
 ## Important Note
 Please ensure that you have a valid OpenAI API key to use the chatbot. If you don't have one, sign up for an API key at the OpenAI website before running the chatbot.
+
+### Medium Blog
+- [Medium Blog](https://medium.com/@oladimejisamuel/building-a-mental-health-chatbot-using-fastapi-langchain-and-openai-1e22d9c6edc1).
